@@ -323,4 +323,5 @@ header.masthead p {
     height:100%;
     width:100%;
     position:absolute;
+    max-width: 650px;
 }
