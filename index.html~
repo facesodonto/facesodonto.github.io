@@ -64,8 +64,8 @@
       <div class="container my-auto">        
 	<div class="row">
 		<div class="col-lg-12 col-sm-12" style="position:relative;display:inline-block">
-			<img class="img-fluid" src="img/front.png" alt="">
-			<a class="btn btn-primary btn-xl js-scroll-trigger" style="position:relative;bottom:10px;transform:translate(0%, 0%)" href="#about">Saiba mais</a>
+			<img class="img-fluid" style="height:auto;" src="img/front.png">
+			<a class="btn btn-primary btn-xl js-scroll-trigger" style="position:relative;bottom:2%" href="#about">Saiba mais</a>
 		</div>
 	</div>
       </div>
